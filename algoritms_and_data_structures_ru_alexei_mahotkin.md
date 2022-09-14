@@ -147,4 +147,5 @@ Memcached используется практически во всех высо
 Программы общего назначения обычно используют вышеизложенную схему хранения файлов, справедливо полагая нижележащую файловую систему неспособной самостоятельно справиться с задачей. Однако, намечаются и попытки разработчиков файловых систем самостоятельно справляться с «нагрузкой»: например, имена файлов в каталоге автоматически хэшируются как в ext3+DIRSHASH, так и в Reiserfs
 
 Thanks to original post creator Alexei Mahotkin - [@squadette on github.com](https://github.com/squadette)
-[Original topic](https://archive.ph/JU8Pg)
+
+[Original post](https://archive.ph/JU8Pg)
